@@ -1,35 +1,16 @@
 # Backend API
 
-This is the backend for the project, built using **Node.js** and **Express**.
+This is the backend service for my team at Northwestern's Institute of Electrical and Electronic Engineers (IEEE) competition 2025.
+It is currently hosted on Render.
 
-## 📌 Setup
+Built using **Node.js**, **Express** and **JavaScript**
 
-### 1. Install dependencies
-```bash
-npm install
-```
-
-### 2. Run the server
-- In production:
+### Run the server
   ```bash
-  npm start
-  ```
-- In development (auto-restart on changes):
-  ```bash
-  npm run dev
+  node index.js
   ```
 
-## 📡 API Endpoints
-
-| Method | Endpoint      | Description         |
-|--------|-------------|---------------------|
-| GET    | `/api/users` | Get all users      |
-| POST   | `/api/users` | Create a new user  |
-
-
-## 📜 License
-This project is licensed under the MIT License.
-
-## 👤 Author
+## Authors
+- **Mercy Muiruri**
 - **Emran Majidy**
 
