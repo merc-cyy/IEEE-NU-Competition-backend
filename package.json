@@ -17,6 +17,9 @@
   "devDependencies": {
     "nodemon": "^3.0.1"
   },
-  "author": "Emran Majidy",
+  "authors": { 
+    "Mercy Muiruri",
+    "Emran Majidy"
+  },
   "license": "MIT"
 }
