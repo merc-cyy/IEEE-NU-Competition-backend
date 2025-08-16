@@ -1,5 +1,9 @@
 # Backend System for IEEE Northwestern Competition 2025
 
+## Authors
+- **Mercy Muiruri**
+- **Emran Majidy**
+
 ## Background
 My team and I won the annual Institute of Electrical and Electronic Engineers invite-only competition held in Northwestern, Chicago.
 
@@ -57,7 +61,4 @@ This is the backend service of the system.
 ### Our application
 https://nuvolunteers.org/
 
-## Authors
-- **Mercy Muiruri**
-- **Emran Majidy**
 
